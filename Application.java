@@ -8,5 +8,11 @@ class Bike7{
     public static void main(String args[]){  
     Bike7 b1=new Bike7();  
     Bike7 b2=new Bike7();  
-    }      
+  
+
+#  new code 
+
+class Bike{  
+    int speed=100;  
+}    }      
 }  
