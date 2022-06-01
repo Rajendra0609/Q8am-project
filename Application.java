@@ -8,6 +8,15 @@ class Bike7{
     public static void main(String args[]){  
     Bike7 b1=new Bike7();  
     Bike7 b2=new Bike7();  
+ cb102
+  
+
+#  new code 
+
+class Bike{  
+    int speed=100;  
+}    }      
+=======
     }      
 }  
 # new code for extension
@@ -22,4 +31,5 @@ class Bike8{
     Bike8 b1=new Bike8();  
     Bike8 b2=new Bike8();  
     }      
+ main
 }  
